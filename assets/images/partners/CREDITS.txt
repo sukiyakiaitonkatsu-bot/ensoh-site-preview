@@ -1,0 +1,11 @@
+Partner images downloaded from official partner websites for prototype use.
+Fullness (https://www.fullness.ne.jp/):
+  logo.jpg, product-01..03.jpg, mainimage.jpg — © Fullness CO.,LTD.
+Somaniks / Toyo Resin (https://somaniks.jp/):
+  logo.png, hero-products.jpg, about.jpg, somacept.jpg, somareson.jpg — © TOYO RESIN corporation
+COQ Textile / COQ SAPPORO (https://coq-textile.jp/):
+  logo-black.svg, hero-01..03.jpg, news-visual.jpg — © KDS / COQ SAPPORO
+MIIDEL / Triart Inc. (https://miidel.com/ , https://triart.co.jp/):
+  logo.svg, favicon.png, hero.jpg, product.jpg, feature.webp, mark.png — © Triart / MIIDEL
+NIN Co.,Ltd. / D-CORE (https://nin-japan.co.jp/en/):
+  logo.png, jp-logo.png, product-a1..a3.jpg, cirrus.png, brand/product list images — © NIN. Company
